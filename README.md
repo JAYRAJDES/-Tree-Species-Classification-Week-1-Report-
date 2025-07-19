@@ -62,5 +62,4 @@ Jayraj Deshmukh Bachelor of Computer Science (B.Tech) Student Passionate about A
 
 ⭐ Acknowledgements
 Special thanks to Vidit Gandhi for sharing the dataset on Kaggle.
-Google Colab for providing an easy and powerful cloud-based Python environment.🌳 Tree Species Classification – Week 1 Report
-Welcome to the first week of the Tree Species Classification project! This repository presents the initial exploration and analysis of a tree image dataset aimed at developing an AI-powered classifier that can accurately identify various tree species based on images.
+Google Colab for providing an easy and powerful cloud-based Python environment.
